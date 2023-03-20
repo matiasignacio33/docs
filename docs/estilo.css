@@ -1,0 +1,106 @@
+
+
+h1 { justify-content: center; 
+        display: flex;
+}
+
+
+h3   {     justify-content: center; 
+        display: flex;
+        color: blue;
+}                      
+
+
+
+
+.boton {
+        background-color: rgb(169, 220, 235);
+        color:green;
+        font-size:16px  32px ;
+         cursor: pointer;
+        margin: 40vh;
+
+
+
+}
+
+
+.imagen {
+  
+    margin-left:50px;
+   
+
+  
+}
+    
+  
+
+.fondo{ 
+  
+  
+        display: inline-block;
+        width: 300px;
+         height: 900px; ; 
+          background-color: rgb(245, 197, 108)
+}
+    
+    
+  .titulo { display: flex;
+
+          justify-content: center; 
+        margin-top:-900px;   
+          color: red;
+     
+  }
+
+
+  .parrafo {   margin-left: 500px;
+          
+               justify-content: center;
+               width: 400px;
+  }
+
+
+ 
+
+
+
+  .informacion  {       justify-content: center; 
+                         display: flex;
+                        
+                        
+
+
+  }
+
+
+
+
+  .Educacion  {
+        justify-content: center; 
+        display: flex;  
+         margin-left: 80px;
+        
+      
+
+
+
+  }
+
+  .Experinecialaboral{ justify-content: center; 
+        display: flex;  
+      margin-left: 80px;
+
+
+
+  }
+
+
+  
+  .hobbys{ justify-content: center; 
+        display: flex;  
+     
+        margin-left: 30px;
+
+
+  }
